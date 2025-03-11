@@ -1,4 +1,4 @@
-# Loan Data Analysis Dashboard
+# Loan_Insights_Dashboard
 
 ## 📌 Project Overview
 **Problem Statement:**
